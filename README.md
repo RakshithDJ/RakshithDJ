@@ -68,7 +68,7 @@ I bring strong roots in **manual testing** and am actively building hands-on dep
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/rakshith-s-a54b851a9)
-- 📧 your.Rakshithdj13@gmail.com
+- 📧 Rakshithdj13@gmail.com
 
 ---
 
