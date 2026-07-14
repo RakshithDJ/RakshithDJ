@@ -40,7 +40,7 @@ I bring strong roots in **manual testing** and am actively building hands-on dep
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| Selenium Automation Framework | Selenium WebDriver + Java + TestNG + POM | 🔧 In Progress |
+| Selenium Automation Framework | Selenium WebDriver + Java + TestNG + POM | Completed |
 | REST API Test Suite | Java + Postman + REST Assured | 🔧 In Progress |
 
 ---
