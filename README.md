@@ -1,6 +1,6 @@
 # Hi, I'm Rakshith 👋
 
-**Senior Software Test Engineer | 4+ Years in QA**  
+**Senior Software Test Engineer | 5+ Years in QA**  
 Bengaluru, India · Open to QA Automation · SDET · Test Engineer roles
 
 ---
