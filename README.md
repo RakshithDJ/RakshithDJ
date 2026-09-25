@@ -30,9 +30,9 @@ I bring strong roots in **Manual testing** and am actively building hands-on dep
 
 | Phase | Domain | Type |
 |-------|--------|------|
-| E-Commerce Web Automation | UI Test Automation — Selenium + Java | Automation |
+| Web Automation | UI Test Automation — Selenium + Java | Automation |
 | Android Mobile Testing | Security Patch & Regression Testing | Manual |
-| HVAC Controller UI | Embedded System Functional Testing | Manual |
+| HVAC Controller UI | Embedded System Functional Testing | Manual & Automation|
 
 ---
 
