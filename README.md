@@ -1,15 +1,15 @@
 # Hi, I'm Rakshith 👋
 
-**Senior Software Test Engineer | 5+ Years in QA**  
+**Senior Software Test Engineer | 5 Years in QA**  
 Bengaluru, India · Open to QA Automation · SDET · Test Engineer roles
 
 ---
 
 ## 🙋 About Me
 
-Senior Software Test Engineer with 4+ years of experience at **LG Soft India (Duru Cooperation Pvt. Ltd.)**, working across embedded UI testing, Android mobile security, and e-commerce web automation.
+Senior Software Test Engineer with 5 years of experience at **LG Soft India (Duru Cooperation Pvt. Ltd.)**, working across embedded UI testing, Android mobile security, and e-commerce web automation.
 
-I bring strong roots in **manual testing** and am actively building hands-on depth in **Selenium WebDriver, Java, TestNG**, and the Page Object Model — with a focus on transitioning into automation-first QA roles.
+I bring strong roots in **Manual testing** and am actively building hands-on depth in **Selenium WebDriver, Java, TestNG**, and the Page Object Model — with a focus on transitioning into automation-first QA roles.
 
 ---
 
